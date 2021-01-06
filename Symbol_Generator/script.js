@@ -54,3 +54,4 @@ for (let value of arr) {
 
 //Symbol and Generator
 
+
